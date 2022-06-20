@@ -1,3 +1,4 @@
-2022-06-20
-1655740217.3762996
-<function simple_function at 0x0140A540>
+2022-06-20-22.53.26
+simple_function
+(name='Ivan', surname='Ivanov', specialty='student')
+Hello, student Ivanov! Have a nice day for you, Ivan!
